@@ -21,5 +21,5 @@ make run
 This will execute the compiled program and display the Doom Fire effect in a window.
 
 ## References
-- [Doom Fire Algorithm](https://fabiensanglard.net/doom_fire_psx/)
-- [Fogo do Doom Felipe Deschamps](https://www.youtube.com/watch?v=HCjDjsHPOco)
+- [Fabien Sanglard - How Doom fire was done](https://fabiensanglard.net/doom_fire_psx/)
+- [Felipe Deschamps - Implementei o Algoritmo do Fogo do Doom (Youtube)](https://www.youtube.com/watch?v=HCjDjsHPOco)

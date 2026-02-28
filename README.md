@@ -1,4 +1,4 @@
-# Doom Fire in C using SDL3
+# Doom Fire in C using SDL3 🔥
 
 This is a implementation of the Doom Fire effect in C using SDL3.
 
